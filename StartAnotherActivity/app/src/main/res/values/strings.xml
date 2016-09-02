@@ -2,5 +2,7 @@
     <string name="app_name">StartAnotherActivity</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="go_back">Go Back</string>
     <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="help">Help</string>
 </resources>
